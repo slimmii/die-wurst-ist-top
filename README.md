@@ -24,11 +24,6 @@ If you intend to use these stems in a **commercial release** (Spotify, Apple Mus
 
 ---
 
-## 📂 Project Info
-* **BPM**: [Insert BPM]
-* **Key**: [Insert Key]
-* **Format**: 24-bit WAV Stems
-
 ## 📬 Clearances
 Failure to attribute "feat. Slimmii" on commercial releases may result in copyright claims. For custom licensing or high-profile commercial inquiries, please contact: **[Insert Email]**.
 
