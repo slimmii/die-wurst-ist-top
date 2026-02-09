@@ -25,7 +25,7 @@ If you intend to use these stems in a **commercial release** (Spotify, Apple Mus
 ---
 
 ## 📬 Clearances
-Failure to attribute "feat. Slimmii" on commercial releases may result in copyright claims. For custom licensing or high-profile commercial inquiries, please contact: **[Insert Email]**.
+Failure to attribute "feat. Slimmii" on commercial releases may result in copyright claims. For custom licensing or high-profile commercial inquiries, please contact: andie.similon@gmail.com
 
 ---
 *Created by Slimmii.*
